@@ -1,1 +1,8 @@
+Week 1 - AI Usage Journal
+Date: Sept 8 - Sept 14, 2025
 
+This week, I used AI to:
+- Help me understand the instructions for the INST326 Week1 Exercises.
+- Get an explanation of some basic Python topics (lists, dictionaries).
+- Debug a small error in my Jupyter Notebook.
+- Clarify how to create and submit this AI Journal on GitHub.
