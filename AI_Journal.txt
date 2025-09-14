@@ -1,5 +1,7 @@
-Week 1 - AI Usage Journal
-Date: Sept 8 - Sept 14, 2025
+AI Usage Journal
+Wang Xiang
+wxiang1@terpmail.umd.edu
+Section 0301
 
 This week, I used AI to:
 - Help me understand the instructions for the INST326 Week1 Exercises.
