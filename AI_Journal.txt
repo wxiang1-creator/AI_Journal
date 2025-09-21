@@ -8,3 +8,47 @@ This week, I used AI to:
 - Get an explanation of some basic Python topics (lists, dictionaries).
 - Debug a small error in my Jupyter Notebook.
 - Clarify how to create and submit this AI Journal on GitHub.
+
+
+
+Week 2
+
+This week I used AI as a tutor, debugger, and code reviewer while finishing the Week-2
+“Library Management” Python exercises and a few SQL review questions. I did not ask AI to
+do the whole assignment for me. Instead, I used AI to explain concepts, propose small
+snippets, and then I rewrote/ran the code in my own notebook and kept links to the chats.
+
+What I used AI for (Python):
+- Reviewed core topics we needed this week: if/elif/else, while/for loops, list methods
+  (append/insert/remove/pop/sort/reverse), slicing, membership checks, and boolean logic.
+- Built and tested patterns I will reuse: toggling a boolean, counting items with a loop,
+  “first match or −1”, “any available” vs “all available”, and a safe remove with an
+  existence check.
+- Fixed an IndexError in my availability report caused by different lengths of `titles`
+  and `available`. AI suggested either aligning lists or using `zip(titles, available)`; I
+  implemented the `zip` approach and verified the output.
+- Wrote a simple menu loop (while + if/elif/else) to print all titles, print only available
+  titles, then quit. I simulated inputs as a small list to avoid blocking the notebook.
+- Practiced list organization tasks: moving an item with `pop`→`append`, manual title
+  casing (first char upper, rest lower), alternating merge of two shelves, and a longest-
+ title search via a loop (no `max` key).
+
+What I used AI for (SQL):
+- Reasoned about JOIN types from small screenshots: when a LEFT JOIN vs RIGHT JOIN is
+  required, and how to combine tables like vendors → invoices → invoice_line_items
+  (including USING). I verified the logic before answering the quiz.
+
+Project work:
+- Drafted parts of our App Project Contract (goals, expectations, policies, consequences,
+  meeting times, rotating leaders). AI helped me list the sections and polish wording; our
+  team edited the final text to reflect our decisions.
+
+Reflection:
+- Helpful: step-by-step error explanations and the “zip to avoid mismatched lengths”
+  pattern. Also learned to be careful with repeated notebook cells that can append
+  duplicates.
+- Limits: AI sometimes assumes different data. I now always run cells, check lengths,
+  and test edge cases.
+- Attribution/Policy: When I used short idioms from AI (e.g., `zip` pattern) I kept the
+  chat link. I typed and tested everything myself.
+
