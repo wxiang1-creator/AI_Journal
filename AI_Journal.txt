@@ -52,3 +52,33 @@ Reflection:
 - Attribution/Policy: When I used short idioms from AI (e.g., `zip` pattern) I kept the
   chat link. I typed and tested everything myself.
 
+
+
+
+Week 3
+
+This week I used AI mainly as a coding partner and explainer while working through the extended “Library Management” exercises and continuing SQL practice. I kept AI use focused on learning patterns, testing code, and checking my reasoning, not on outsourcing the full solutions.
+
+What I used AI for (Python):
+
+Asked for clean implementations of the later library functions (toggle, swap, insert, catalog summary). I pasted AI’s version into my notebook, then rewrote or simplified it line by line to make sure I understood loops, conditionals, and list operations.
+
+Practiced edge-case reasoning: AI explained what happens if indices are out of range, or if I try to remove from an empty list. I tested those cases myself afterward.
+
+Got help normalizing titles and authors: how to strip spaces, title-case, and handle multiple possible separators (— vs -). This clarified string handling and split vs rsplit.
+
+Verified my code style: AI suggested shorter comprehensions and f-strings, which I compared against my original longer loops.
+
+What I used AI for (SQL):
+
+Reviewed JOIN logic with small practice prompts (when to use ON vs USING, handling duplicate column names).
+
+Practiced writing queries that filter by substring (LIKE) and by range (BETWEEN). I asked AI to critique my WHERE clauses and then corrected them in my SQL tool.
+
+Project work:
+
+For our group project planning, I drafted a section of our document (roles + responsibilities). AI helped me brainstorm reasonable policies for task rotation and consequence handling, then I rephrased them into our own style.
+
+I also asked AI how to format a catalog summary with totals and availability counts so I could adapt the idea to a team resource tracker.
+
+Overall, AI acted like a tutor and reviewer. I always ran and modified the code myself, and I linked back to the chats for reference.
