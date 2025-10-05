@@ -82,3 +82,22 @@ For our group project planning, I drafted a section of our document (roles + res
 I also asked AI how to format a catalog summary with totals and availability counts so I could adapt the idea to a team resource tracker.
 
 Overall, AI acted like a tutor and reviewer. I always ran and modified the code myself, and I linked back to the chats for reference.
+
+
+
+
+
+
+Week 4
+
+This week, I used AI to:
+
+Review the concepts of classes and objects in Python and understand the difference between attributes and methods.
+
+Get examples of how to design a simple class for real-life objects (like a car or phone).
+
+Ask for help writing and explaining __init__ and __str__ methods in my code.
+
+Clarify how inheritance works and when to use it in a project.
+
+Reflect on how AI can help generate or improve class design ideas for my future team project.
