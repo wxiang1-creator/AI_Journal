@@ -101,3 +101,28 @@ Ask for help writing and explaining __init__ and __str__ methods in my code.
 Clarify how inheritance works and when to use it in a project.
 
 Reflect on how AI can help generate or improve class design ideas for my future team project.
+
+
+
+
+
+
+Week 5
+
+
+This week, I used AI as both a debugging assistant and a concept explainer while working on the “Data Query and File Processing” lab. I encountered several Python and SQL tasks that required clarification of syntax and logical structure, so I asked AI to break down how each command worked and why certain approaches were more efficient.
+
+What I used AI for:
+
+Clarified how to read and write files in Python using open(), .readlines(), and context managers (with statements).
+
+Asked AI to explain SQL query optimization, including when to use JOIN vs. WHERE filtering.
+
+Debugged an issue in my code that was caused by incorrect indentation inside a loop when processing multiple files.
+
+Learned how to use parameterized SQL queries in Python (cursor.execute() with placeholders) to prevent SQL injection and improve readability.
+
+Requested small code examples that demonstrated how to use try/except blocks to handle missing files gracefully.
+
+Reflection:
+This week, AI helped me strengthen my understanding of file handling, data iteration, and safe SQL execution. I became more comfortable interpreting error messages and adjusting my logic instead of just copying code. I also learned to ask more specific, context-aware questions — for example, asking “why does this query return duplicates” instead of just “how to fix it.” This approach helped me use AI as a collaborative tool, not just a problem solver.
