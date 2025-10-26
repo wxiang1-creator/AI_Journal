@@ -126,3 +126,30 @@ Requested small code examples that demonstrated how to use try/except blocks to 
 
 Reflection:
 This week, AI helped me strengthen my understanding of file handling, data iteration, and safe SQL execution. I became more comfortable interpreting error messages and adjusting my logic instead of just copying code. I also learned to ask more specific, context-aware questions — for example, asking “why does this query return duplicates” instead of just “how to fix it.” This approach helped me use AI as a collaborative tool, not just a problem solver.
+
+
+
+
+Week 6
+
+This week, I used AI mainly as a conceptual assistant and a debugging partner while working on advanced Python topics related to object-oriented programming. I encountered areas that required deeper understanding, especially around class structure design, method types, and chaining multiple components together in a program. AI helped clarify differences between method scopes and supported me in validating logic flow.
+
+What I used AI for:
+
+Reviewed the differences between instance methods, class methods, and static methods, including when each is appropriate in real-world use cases.
+
+Asked for explanations on how class attributes are shared across instances and how they differ from instance attributes.
+
+Clarified how to manage internal counters (e.g., ID generators) and why class methods are suitable for such use.
+
+Requested debugging guidance when I encountered incorrect behavior due to misusing self instead of cls in class methods.
+
+Asked for help in improving code readability, such as how to properly separate responsibilities between helper classes and utility methods.
+
+Explored examples of how static methods can encapsulate reusable logic without depending on object state.
+
+Sought simplified analogies to better understand encapsulation and how to keep classes cohesive but not tightly coupled.
+
+Reflection:
+
+This week, AI helped me deepen my understanding of structured object-oriented design. Instead of treating classes as containers for random functions, I became more aware of how class responsibilities should be clearly defined. I also gained confidence in selecting the right type of method depending on the context. More importantly, I learned to validate my own reasoning by checking whether a method truly required access to instance data, class-level data, or could function independently. This helped shift my learning process from writing code that “works” to designing code that is logical, maintainable, and well-structured.
