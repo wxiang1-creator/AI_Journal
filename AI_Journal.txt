@@ -153,3 +153,19 @@ Sought simplified analogies to better understand encapsulation and how to keep c
 Reflection:
 
 This week, AI helped me deepen my understanding of structured object-oriented design. Instead of treating classes as containers for random functions, I became more aware of how class responsibilities should be clearly defined. I also gained confidence in selecting the right type of method depending on the context. More importantly, I learned to validate my own reasoning by checking whether a method truly required access to instance data, class-level data, or could function independently. This helped shift my learning process from writing code that “works” to designing code that is logical, maintainable, and well-structured.
+
+
+
+
+
+Week 7 Reflection
+
+This week, I used AI primarily as a conceptual assistant and debugging partner while exploring advanced topics in Python related to object-oriented programming (OOP). I focused on understanding class structures, method scopes, and how to effectively connect multiple components within a program.
+
+AI provided detailed guidance in distinguishing between instance methods, class methods, and static methods, helping me recognize when each should be applied in real-world scenarios. I also clarified the distinction between class attributes and instance attributes, learning how shared data and per-instance data should be managed differently.
+
+Through debugging discussions, I realized why using cls instead of self is crucial in class methods, especially when maintaining internal counters or ID generators. AI also helped improve my code readability and modularity, offering suggestions for separating concerns between helper classes and utility functions.
+
+Additionally, by exploring analogies for encapsulation and cohesion, I developed a better sense of how to design classes that are self-contained yet interact logically with other parts of the program.
+
+Overall, this week’s learning deepened my understanding of OOP design principles. I moved from simply writing functional code to structuring programs with clarity, maintainability, and purpose, ensuring each class and method serves a well-defined role within the system.
