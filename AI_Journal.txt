@@ -169,3 +169,18 @@ Through debugging discussions, I realized why using cls instead of self is cruci
 Additionally, by exploring analogies for encapsulation and cohesion, I developed a better sense of how to design classes that are self-contained yet interact logically with other parts of the program.
 
 Overall, this week’s learning deepened my understanding of OOP design principles. I moved from simply writing functional code to structuring programs with clarity, maintainability, and purpose, ensuring each class and method serves a well-defined role within the system.
+
+
+
+
+
+
+
+Week 8 
+This week, I continued expanding my understanding of object-oriented programming, focusing on the principles of inheritance and polymorphism. I explored how subclasses can extend or modify the behavior of parent classes and how method overriding enables customized behavior while maintaining structural consistency.
+
+AI helped me clarify when to use super() to access base-class functionality and how polymorphism allows different objects to respond to the same method call in distinct yet logical ways. These concepts helped me see how inheritance supports both code reusability and adaptability in software systems.
+
+Through conceptual guidance and debugging examples, I gained a clearer understanding of how to design hierarchies that promote modularity, reduce redundancy, and improve clarity. I also reflected on how polymorphism can replace rigid conditional logic, allowing programs to grow more naturally as new subclasses are introduced.
+
+Overall, this week strengthened my grasp of how inheritance and polymorphism contribute to scalable and elegant program design. I learned to think about class relationships not only in terms of data organization but also in how behaviors evolve across related components.
