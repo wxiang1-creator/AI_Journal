@@ -184,3 +184,14 @@ AI helped me clarify when to use super() to access base-class functionality and 
 Through conceptual guidance and debugging examples, I gained a clearer understanding of how to design hierarchies that promote modularity, reduce redundancy, and improve clarity. I also reflected on how polymorphism can replace rigid conditional logic, allowing programs to grow more naturally as new subclasses are introduced.
 
 Overall, this week strengthened my grasp of how inheritance and polymorphism contribute to scalable and elegant program design. I learned to think about class relationships not only in terms of data organization but also in how behaviors evolve across related components.
+
+
+Week 9
+
+This week, I deepened my understanding of abstract classes and interface-like patterns in Python, focusing especially on how abstraction shapes clearer and more enforceable design contracts. I explored how abstract methods and properties define the essential operations that all subclasses must implement, ensuring consistency across different item types while still allowing customized behavior.
+
+AI helped me better understand how abstract base classes differ from concrete inheritance and why relying on abstraction encourages more stable program structures. I learned how abstract properties can act as required attributes, guiding subclasses to provide their own logic while keeping the overall system predictable. The explanations also clarified how class methods can be declared abstract and how template methods allow a base class to define a shared workflow that subclasses personalize through overridden hooks.
+
+Through conceptual breakdowns and debugging examples, I gained a more intuitive sense of how abstraction promotes decoupling and clean architecture. I also reflected on how enforcing an abstract contract eliminates the need for scattered type checks, since all subclasses commit to the same interface by design. This makes the system easier to extend as new item types are introduced without rewriting existing logic.
+
+Overall, this week strengthened my appreciation for abstraction as a tool for scalable and maintainable software design. I learned to view classes not only as containers of data and behavior but also as agreements about what functionality should exist. This shift in perspective helped me understand how abstraction and interfaces support flexibility, consistency, and long-term adaptability in larger codebases.
