@@ -195,3 +195,16 @@ AI helped me better understand how abstract base classes differ from concrete in
 Through conceptual breakdowns and debugging examples, I gained a more intuitive sense of how abstraction promotes decoupling and clean architecture. I also reflected on how enforcing an abstract contract eliminates the need for scattered type checks, since all subclasses commit to the same interface by design. This makes the system easier to extend as new item types are introduced without rewriting existing logic.
 
 Overall, this week strengthened my appreciation for abstraction as a tool for scalable and maintainable software design. I learned to view classes not only as containers of data and behavior but also as agreements about what functionality should exist. This shift in perspective helped me understand how abstraction and interfaces support flexibility, consistency, and long-term adaptability in larger codebases.
+
+
+
+
+Week 10
+
+This week, I continued advancing my understanding of object-oriented programming by exploring composition, delegation, and how objects collaborate within larger program structures. I examined how composition differs from inheritance and how choosing between them affects flexibility, coupling, and long-term maintainability. I also reflected on how delegation allows objects to share responsibilities without forming rigid hierarchical relationships.
+
+AI helped me deepen my awareness of when composition should be preferred over subclassing—especially in cases where behavior should be changed without altering the type hierarchy. Through explanations and debugging guidance, I learned how composed objects can encapsulate specialized functionality while keeping parent classes simpler and more focused. I also gained clarity on how delegation patterns reduce duplication and promote clearer separation of concerns.
+
+Through conceptual examples and iterative refinements, I developed a stronger sense of how object collaboration forms the foundation of scalable program architecture. I reflected on how designing small, single-purpose objects leads to cleaner interactions and how composition allows systems to evolve without breaking existing structures. The guidance also showed how delegation can replace conditional decision trees, making behavior more modular and extendable.
+
+Overall, this week strengthened my appreciation for composition as a powerful design tool, especially when aiming for flexible and maintainable systems. I learned to think of objects not only as independent entities but also as participants in cooperative workflows. This shift in perspective helped me understand how object collaboration supports extensibility, reduces coupling, and encourages long-term adaptability in complex codebases.
