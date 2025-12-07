@@ -208,3 +208,19 @@ AI helped me deepen my awareness of when composition should be preferred over su
 Through conceptual examples and iterative refinements, I developed a stronger sense of how object collaboration forms the foundation of scalable program architecture. I reflected on how designing small, single-purpose objects leads to cleaner interactions and how composition allows systems to evolve without breaking existing structures. The guidance also showed how delegation can replace conditional decision trees, making behavior more modular and extendable.
 
 Overall, this week strengthened my appreciation for composition as a powerful design tool, especially when aiming for flexible and maintainable systems. I learned to think of objects not only as independent entities but also as participants in cooperative workflows. This shift in perspective helped me understand how object collaboration supports extensibility, reduces coupling, and encourages long-term adaptability in complex codebases.
+
+
+
+
+
+
+
+Week 12
+
+This week, I expanded my understanding of object-oriented programming by focusing on error handling, defensive programming, and how robust systems maintain stability when unexpected situations occur. I explored how exceptions flow through a program, how to design predictable failure paths, and how good error-handling patterns improve reliability without complicating the overall architecture. I also reflected on how defensive programming practices protect core logic and prevent invalid states from propagating.
+
+AI helped me clarify when exceptions should be raised versus when they should be handled silently, and how to structure try/except blocks to keep code readable while still capturing potential failure points. Through conceptual guidance, I gained a clearer sense of how validation, boundary checks, and fail-fast principles work together to strengthen the correctness of a system. The explanations also helped me understand how custom exceptions can communicate intent more clearly and support more maintainable debugging practices.
+
+Through examples and iterative refinements, I developed a stronger appreciation for designing programs that expect the unexpected. I learned how strategic guard clauses can simplify logic, how layering validation helps prevent ambiguous states, and how anticipating misuse leads to more intuitive interfaces. I also reflected on how proper exception propagation creates a clean separation between business logic and error-resolution logic, allowing each part of the system to retain a focused responsibility.
+
+Overall, this week deepened my understanding of reliability as an essential part of software design. I learned to view error handling not as an afterthought but as an integrated design concern that shapes how components interact and fail safely. This shift in perspective helped me recognize how defensive programming, validation patterns, and thoughtful exception design contribute to the creation of resilient, predictable, and maintainable codebases.
