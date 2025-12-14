@@ -224,3 +224,15 @@ AI helped me clarify when exceptions should be raised versus when they should be
 Through examples and iterative refinements, I developed a stronger appreciation for designing programs that expect the unexpected. I learned how strategic guard clauses can simplify logic, how layering validation helps prevent ambiguous states, and how anticipating misuse leads to more intuitive interfaces. I also reflected on how proper exception propagation creates a clean separation between business logic and error-resolution logic, allowing each part of the system to retain a focused responsibility.
 
 Overall, this week deepened my understanding of reliability as an essential part of software design. I learned to view error handling not as an afterthought but as an integrated design concern that shapes how components interact and fail safely. This shift in perspective helped me recognize how defensive programming, validation patterns, and thoughtful exception design contribute to the creation of resilient, predictable, and maintainable codebases.
+
+
+
+Week 13
+
+This week, I reflected on how the concepts covered throughout the course connect into a broader understanding of how people, systems, and organizations function under pressure. I focused on integrating ideas related to stress, motivation, burnout, and individual differences, and how these factors interact to shape performance and well-being in real-world settings. Rather than viewing these topics in isolation, I began to see them as interconnected elements within complex work environments.
+
+AI supported my learning by helping me synthesize concepts across multiple lectures and readings. Through guided explanations, I clarified how job design, autonomy, fairness, and social support influence both stress levels and motivation over time. AI also helped me better understand how individual traits, such as emotional stability and coping styles, interact with organizational structures to either buffer or intensify stress. This synthesis made it easier to recognize patterns across different theories instead of memorizing them separately.
+
+Through reflection and comparison, I developed a deeper appreciation for the importance of addressing stress and burnout at both the individual and organizational levels. I learned that short-term fixes may provide temporary relief, but long-term improvement depends on structural changes such as clearer roles, supportive leadership, and alignment between values and practices. I also reflected on how psychological safety and effective communication enable teams to manage stress more constructively, especially in high-pressure or uncertain environments.
+
+Overall, this week helped me consolidate my understanding of how course concepts apply to real organizational challenges. I learned to think more holistically about performance, well-being, and sustainability in the workplace. This final integration strengthened my ability to analyze work environments not just in terms of tasks and outcomes, but also in terms of human experience, resilience, and long-term effectiveness.
